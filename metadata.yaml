@@ -1,0 +1,55 @@
+_repo: Famous-Colonial-Houses_67591
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Street, Julian
+    alias: Street, Julian Leonard
+    birthdate: 1879
+    deathdate: 1947
+    gutenberg_agent_id: '7933'
+    url: http://www.gutenberg.org/2009/agents/7933
+    wikipedia: https://en.wikipedia.org/wiki/Julian_Leonard_Street
+  illustrator:
+    agent_name: Preston, James M.
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '26605'
+    url: http://www.gutenberg.org/2009/agents/26605
+creator:
+  author:
+    agent_name: Hollister, Paul M. (Paul Merrick)
+    alias: Hollister, Paul Merrick
+    birthdate: 1890
+    deathdate: 1970
+    gutenberg_agent_id: '50081'
+    url: http://www.gutenberg.org/2009/agents/50081
+description: ''
+gutenberg_issued: '2022-03-09'
+identifiers:
+  gutenberg: '67591'
+  lccn: '22026312'
+language: en
+pgterms:marc904: https://archive.org/details/famouscolonialho00holl/page/n5/mode/2up
+pgterms:marc905: 20210902180244hollister
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: Charlene Taylor, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :David McKay Company,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture, Colonial'
+- !lcsh 'Dwellings -- United States'
+- !lcsh 'Historic buildings -- United States'
+- !lcsh 'Architecture, Domestic -- United States'
+- !lcc 'E151'
+- GITenberg
+tableOfContents: Monticello -- The Haunted House, New Orleans -- Doughoregan Manor
+  -- The Jumel Mansion -- Mount Vernon -- The Quincy Homestead -- The Timothy Dexter
+  Mansion -- The Kendall House -- The Longfellow House -- Cliveden -- The Wentworth
+  Mansion -- The Pringle House.
+title: Famous Colonial Houses
+url: http://www.gutenberg.org/ebooks/67591
